@@ -1,1 +1,1 @@
-# test-repo
+# test-repo for practicing git commands
